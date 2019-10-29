@@ -1,4 +1,4 @@
-# OneHatOneTrySupport.github.io
+# OneHatOneTrySupport
 Support page
 
 Contact informtion: michail.zhukov@gmail.com
